@@ -1,2 +1,2 @@
-# Game-fo-democrazy
+# Game-of-democrazy
 site web
